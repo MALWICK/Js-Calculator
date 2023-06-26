@@ -76,7 +76,7 @@ body {
   border-radius: 55px;
   justify-content: flex-start;
   padding-left: 43px;
-  grid-column: 1 / 3;
+  grid-template-columns: 1 / 3;
   grid-column-start: 1;
   grid-column-end: 3;
 }
