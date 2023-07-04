@@ -87,8 +87,8 @@ body {
 @media (max-width: 768px) {
   .calculator {
     background-color: black;
-    width: 536px;
-    height: 800px;
+    width: 479px;
+    height: 779px;
     border-radius: 50px;
     padding: 20px;
     color: white;
@@ -99,8 +99,8 @@ body {
   }
 
   .button {
-    height: 64px;
-    width: 84px;
+    height: 73px;
+    width: 83px;
     font-size: 45px;
     border-radius: 50%;
     background-color: #333;
